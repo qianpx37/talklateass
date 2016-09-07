@@ -14,8 +14,9 @@ Audio File: ../../Downloads/The Greatest.ts
 Video File: ../../Downloads/The Greatest.ts
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Video Position: 210
+Video Zoom Percent: 0.250000
+Active Line: 3
+Video Position: 8744
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -23,9 +24,10 @@ Style: Default,思源黑體 TW Bold,100,&H00FFFFFF,&H000000FF,&H00000000,&H00000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:04.00,Default,,0,0,0,,{\pos(952,789)}#你们是我爸爸~~
-Dialogue: 0,0:00:29.46,0:00:38.66,Default,,0,0,0,,{\fn思源黑体 CN Heavy\fs300\pos(954,1077)}感动               中国\N\N\N{\fn思源黑体 CN Heavy\fs104}关注我们的微博~~@希言翻译
-Dialogue: 0,0:05:24.34,0:05:50.66,Default,,0,0,0,,{\fn思源黑体 CN Heavy\fs300\pos(954,1077)}感动               中国\N\N\N{\fn思源黑体 CN Heavy\fs104}关注我们的微博~~@希言翻译
+Dialogue: 0,0:00:00.30,0:00:04.42,Default,,0,0,0,,{\pos(916,708)}#你们是我爸爸
+Dialogue: 0,0:00:29.14,0:00:38.66,Default,,0,0,0,,{\fn思源黑体 CN Heavy\fs300\pos(928,844)}感动               中国\N\N\N{\fn思源黑体 CN Heavy\fs104}
+Dialogue: 0,0:05:23.98,0:05:49.74,Default,,0,0,0,,{\fn思源黑体 CN Heavy\fs300\pos(928,844)}感动               中国\N\N\N{\fn思源黑体 CN Heavy\fs104}
+Dialogue: 0,0:05:49.74,0:05:51.74,Default,,0,0,0,,微博~~@希言翻译
 Dialogue: 0,0:01:18.78,0:01:21.34,Default,,0,0,0,,阿~嗷~被压得喘不过气
 Dialogue: 0,0:01:21.34,0:01:23.54,Default,,0,0,0,,啊~哎~我的心依然坚韧
 Dialogue: 0,0:01:23.54,0:01:26.30,Default,,0,0,0,,阿~嗷~闭上眼奋力奔跑
